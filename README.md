@@ -1,4 +1,6 @@
 # Hotal Booking RPA project
+<img src="https://1drv.ms/i/c/256564006df69aa4/EW9EhI77Uq5LrvvTVO-spisBpbOAHKd4Z-73-XFewMU40g?e=Isvfzq" height="40px">
+By, Subhadip Maity
 
 ## Description
 It's my first project of my RPA developer life. 😊 
